@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "João Silva",
+    "phone": "+55 11 99999-9999",
+    "product_type": "IPTV",
+    "plan": "Premium IPTV",
+    "value": 89.9,
+    "expiry_date": "2025-07-07",
+    "notification_time": "09:00",
+    "custom_message": "Olá João! Seu plano IPTV Premium vence em {dias} dias. Renove agora!",
+    "status": "active",
+    "created_at": "2025-07-05T03:09:14.933428",
+    "updated_at": "2025-07-05T03:09:14.933430",
+    "last_notification_sent": null,
+    "days_until_expiry": 0,
+    "is_expired": false
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "phone": "+55 11 88888-8888",
+    "product_type": "IPTV",
+    "plan": "Básico IPTV",
+    "value": 49.9,
+    "expiry_date": "2025-07-02",
+    "notification_time": "09:00",
+    "custom_message": "Oi Maria! Seu IPTV Básico venceu. Renove hoje!",
+    "status": "expired",
+    "created_at": "2025-07-05T03:09:14.933430",
+    "updated_at": "2025-07-05T03:09:14.933431",
+    "last_notification_sent": null,
+    "days_until_expiry": -5,
+    "is_expired": true
+  }
+]
