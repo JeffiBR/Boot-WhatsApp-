@@ -1,0 +1,53 @@
+[
+  {
+    "id": 3,
+    "name": "Ana Costa",
+    "phone": "+55 11 66666-6666",
+    "product_type": "VPN",
+    "plan": "VPN Mensal",
+    "value": 29.9,
+    "expiry_date": "2025-07-09",
+    "notification_time": "09:00",
+    "custom_message": "Olá Ana! Sua VPN Mensal vence em {dias} dias. Mantenha sua privacidade!",
+    "status": "active",
+    "created_at": "2025-07-05T03:09:14.933434",
+    "updated_at": "2025-07-05T03:09:14.933434",
+    "last_notification_sent": null,
+    "days_until_expiry": 2,
+    "is_expired": false
+  },
+  {
+    "id": 4,
+    "name": "Pedro Lima",
+    "phone": "+55 11 55555-5555",
+    "product_type": "VPN",
+    "plan": "VPN Anual",
+    "value": 199.9,
+    "expiry_date": "2025-06-24",
+    "notification_time": "09:00",
+    "custom_message": "Oi Pedro! Sua VPN Anual venceu. Renove e continue navegando seguro!",
+    "status": "expired",
+    "created_at": "2025-07-05T03:09:14.933435",
+    "updated_at": "2025-07-05T03:09:14.933435",
+    "last_notification_sent": null,
+    "days_until_expiry": -13,
+    "is_expired": true
+  },
+  {
+    "id": 5,
+    "name": "Lucia Ferreira",
+    "phone": "+55 11 44444-4444",
+    "product_type": "VPN",
+    "plan": "VPN Trimestral",
+    "value": 79.9,
+    "expiry_date": "2025-07-19",
+    "notification_time": "09:00",
+    "custom_message": "Olá Lucia! Sua VPN Trimestral vence em {dias} dias. Renove para manter a segurança!",
+    "status": "active",
+    "created_at": "2025-07-05T03:09:14.933436",
+    "updated_at": "2025-07-05T03:09:14.933436",
+    "last_notification_sent": null,
+    "days_until_expiry": 12,
+    "is_expired": false
+  }
+]
