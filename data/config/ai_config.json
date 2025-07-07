@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "personality": "friendly",
+  "response_style": "conversational",
+  "context_level": "detailed",
+  "auto_generate": true,
+  "learning_mode": true,
+  "sentiment_analysis": true,
+  "optimization": true,
+  "ai_reports": false,
+  "custom_instructions": null,
+  "product_knowledge": {
+    "IPTV": {
+      "features": "Mais de 10.000 canais, qualidade 4K, suporte 24/7",
+      "benefits": "Entretenimento completo para toda família",
+      "technical": "Compatível com Smart TV, Android, iOS"
+    },
+    "VPN": {
+      "features": "Servidores globais, criptografia militar, sem logs",
+      "benefits": "Privacidade e segurança online total",
+      "technical": "Protocolos OpenVPN, WireGuard, IKEv2"
+    }
+  },
+  "created_at": "2025-07-06T14:24:07.162294",
+  "updated_at": "2025-07-06T14:24:07.161469"
+}
