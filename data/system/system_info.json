@@ -1,0 +1,10 @@
+{
+  "backup_timestamp": "2025-07-07T09:42:17.054961",
+  "total_clients": 5,
+  "total_templates": 6,
+  "total_logs": 0,
+  "clients_by_product": {
+    "IPTV": 2,
+    "VPN": 3
+  }
+}
