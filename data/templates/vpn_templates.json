@@ -1,0 +1,35 @@
+[
+  {
+    "id": 4,
+    "name": "Aviso Padrão VPN",
+    "product_type": "VPN",
+    "content": "Olá {nome}! Sua VPN {plano} vence em {dias} dias. Mantenha sua privacidade online renovando agora!",
+    "tone": "friendly",
+    "is_active": true,
+    "usage_count": 0,
+    "created_at": "2025-07-05T03:09:14.938462",
+    "updated_at": "2025-07-05T03:09:14.938462"
+  },
+  {
+    "id": 5,
+    "name": "Segurança VPN",
+    "product_type": "VPN",
+    "content": "Ei {nome}! Sua proteção VPN {plano} expira em {dias} dias. Não fique vulnerável na internet. Renove já!",
+    "tone": "security",
+    "is_active": true,
+    "usage_count": 0,
+    "created_at": "2025-07-05T03:09:14.938463",
+    "updated_at": "2025-07-05T03:09:14.938463"
+  },
+  {
+    "id": 6,
+    "name": "Técnico VPN",
+    "product_type": "VPN",
+    "content": "Olá {nome}! Sua VPN {plano} com criptografia militar vence em {dias} dias. Continue navegando com segurança total!",
+    "tone": "technical",
+    "is_active": true,
+    "usage_count": 0,
+    "created_at": "2025-07-05T03:09:14.938464",
+    "updated_at": "2025-07-05T03:09:14.938464"
+  }
+]
