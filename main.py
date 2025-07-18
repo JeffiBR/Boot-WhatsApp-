@@ -706,4 +706,3 @@ if __name__ == '__main__':
         logger.info("✅ Dados de exemplo criados!")
         logger.info("✅ Scheduler de backup iniciado!")
     
-    # Executar aplicação Flask
